@@ -1,2 +1,5 @@
 *.csv
 *.ipynb_checkpoints
+*.gz
+data/foodb_2020_4_7_csv.tar/foodb_2020_04_07_csv/.DS_Store
+*.DS_Store
